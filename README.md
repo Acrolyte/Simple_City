@@ -1,3 +1,6 @@
+# Short Description
+A simple city created in Unity using basic shapes and terrain. Also contains an easily scripted clock.
+
 # Video Preview
 
 https://github.com/Acrolyte/Simple_City/assets/59145196/3a7c7c0a-5ebd-405e-99b4-d27a08c885dd
